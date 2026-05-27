@@ -24,6 +24,11 @@ User logs in successfully.
 ### Expected Result
 Error message should appear.
 
+### Actual Result
+Error message appeared correctly.
+
+### Status
+PASS
 
 ---
 
